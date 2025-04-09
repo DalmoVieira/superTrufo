@@ -1,20 +1,3 @@
-Perfeito, Dalmo! Vou criar uma **documentação em formato Markdown (`.md`)** para o seu programa “Super Trunfo das Cidades”, totalmente comentada e com estilo didático, ideal para usar com seus alunos ou guardar como referência.
-
----
-
-### ✅ **O que terá na documentação:**
-1. **Título e introdução do projeto.**
-2. **Explicação de cada parte do código (como já fiz acima, só que formatado).**
-3. **Explicações de lógica, funções, estrutura `struct`, menu, cálculos.**
-4. **Sugestões de melhoria.**
-
-Vou gerar o conteúdo agora e depois posso converter para PDF se você quiser também. Aqui está a versão em Markdown:
-
----
-
-### 📄 `super_trunfo_cidades.md`
-
-```markdown
 # 🏙️ Super Trunfo das Cidades — Projeto em C
 
 ## 🎯 Objetivo
@@ -149,11 +132,3 @@ Este projeto é uma ótima introdução a:
 - Cálculos e comparações
 - Interação com o usuário via menu
 
-Ideal para praticar conceitos fundamentais da linguagem C com um toque divertido!
-
----
-```
-
----
-
-Posso agora gerar um **PDF bonitinho** com esse conteúdo ou salvar o `.md` para você usar onde quiser. Qual formato você prefere agora? 📄✨
